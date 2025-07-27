@@ -37,5 +37,6 @@ This project demonstrates a **low-cost, microcontroller-based system** designed 
 - **Latency:** Less than 500ms to detect another train.
 - **Reliability:** Very few false positives, thanks to efficient RF channel selection and message filtering.
 
+## For more information read the project report
 
 
